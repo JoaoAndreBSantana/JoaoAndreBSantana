@@ -1,18 +1,16 @@
-<h1 align="center" style="color: #00ffd5;">👋 Olá, sou João André</h1>
+<h1 align="center">Olá, sou João André</h1>
 
-<p align="center" style="color: #cccccc; font-size: 18px;">
-  🎓 Residente em Sistemas Embarcados e estudante de Análise e Desenvolvimento de Sistemas no IFPI.
+<p align="center">
+  Residente em Sistemas Embarcados e 
+  estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br>
 </p>
 
 <div align="center">
-  <!-- Novo GIF animado com estilo mais moderno -->
-  <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0, 255, 213, 0.3); margin-bottom: 20px;" />
+  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhmM243bWpva2JscjlqZWR3OGJ5cnAxMGcwMnZwN3NzOGlveHhkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNGtIbsXz88V2/giphy.gif" width="650" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" />
 </div>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&show_icons=true&count_private=true&theme=tokyonight&title_color=00ffd5&text_color=ffffff&icon_color=00ffd5&bg_color=0d1117&hide_border=false" height="150" />
-
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=tokyonight&title_color=00ffd5&text_color=ffffff&bg_color=0d1117&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=1f6feb&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoAndreBSantana&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
