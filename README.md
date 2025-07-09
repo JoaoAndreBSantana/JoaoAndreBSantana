@@ -1,16 +1,41 @@
-<h1 align="center">Olá, sou João André</h1>
+# Olá, sou João André
 
-<p align="center">
-  Residente em Sistemas Embarcados e 
-  estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br>
+---
+
+<p align="center" style="color: #bbb; font-size: 16px; max-width: 600px; margin: auto;">
+  Residente em Sistemas Embarcados e estudante de Análise e Desenvolvimento de Sistemas no IFPI.
 </p>
 
-<div align="center">
-  <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhmM243bWpva2JscjlqZWR3OGJ5cnAxMGcwMnZwN3NzOGlveHhkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNGtIbsXz88V2/giphy.gif" width="650" height="auto" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-bottom: 20px;" />
+<div align="center" style="margin: 30px 0;">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhmM243bWpva2JscjlqZWR3OGJ5cnAxMGcwMnZwN3NzOGlveHhkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNGtIbsXz88V2/giphy.gif" 
+    alt="Programming GIF" 
+    width="650" 
+    style="border-radius: 12px; box-shadow: 0 0 15px #00ff99;"
+  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=1f6feb&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoAndreBSantana&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=10&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&hide_border=false&order=2" height="150" alt="languages graph" />
+---
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&show_icons=true&count_private=true&theme=radical&hide_border=true" 
+    alt="GitHub stats" 
+    height="150"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=radical&hide_border=true" 
+    alt="Top Languages" 
+    height="150"
+  />
+
 </div>
+
+---
+
+<p align="center" style="color: #666; font-size: 14px;">
+  Contato: <a href="mailto:joao.andre@ifpi.edu.br" style="color: #00ff99; text-decoration: none;">joao.andre@ifpi.edu.br</a> | 
+  <a href="https://www.linkedin.com/in/joao-andre-santana/" target="_blank" rel="noopener" style="color: #00ff99; text-decoration: none;">LinkedIn</a>
+</p>
