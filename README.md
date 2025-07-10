@@ -6,17 +6,6 @@
   Residente em Sistemas Embarcados e estudante de Análise e Desenvolvimento de Sistemas no IFPI.
 </p>
 
-<div align="center" style="margin: 30px 0;">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhmM243bWpva2JscjlqZWR3OGJ5cnAxMGcwMnZwN3NzOGlveHhkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNGtIbsXz88V2/giphy.gif" 
-    alt="Programming GIF" 
-    width="650" 
-    style="border-radius: 12px; box-shadow: 0 0 15px #00ff99;"
-  />
-</div>
-
----
-
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <img 
