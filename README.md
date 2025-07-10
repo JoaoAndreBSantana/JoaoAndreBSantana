@@ -1,7 +1,5 @@
 # Olá, sou João André
 
----
-
 <p align="center" style="color: #bbb; font-size: 16px; max-width: 600px; margin: auto;">
   Residente em Sistemas Embarcados e estudante de Análise e Desenvolvimento de Sistemas no IFPI.
 </p>
@@ -22,9 +20,3 @@
 
 </div>
 
----
-
-<p align="center" style="color: #666; font-size: 14px;">
-  Contato: <a href="mailto:joao.andre@ifpi.edu.br" style="color: #00ff99; text-decoration: none;">joao.andre@ifpi.edu.br</a> | 
-  <a href="https://www.linkedin.com/in/joao-andre-santana/" target="_blank" rel="noopener" style="color: #00ff99; text-decoration: none;">LinkedIn</a>
-</p>
