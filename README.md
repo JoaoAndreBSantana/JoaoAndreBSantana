@@ -6,17 +6,11 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-    alt="GitHub stats" 
-    height="150"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&show_icons=true&count_private=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=radical&hide_border=true" height="150"/>
+</p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=radical&hide_border=true" 
-    alt="Top Languages" 
-    height="150"
-  />
 
 </div>
 
