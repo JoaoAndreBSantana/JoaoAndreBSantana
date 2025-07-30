@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoAndreBSantana&show_icons=true&count_private=true&theme=merko&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAndreBSantana&layout=compact&langs_count=10&theme=merko&hide_border=true" height="150"/>
 </p>
 
 
