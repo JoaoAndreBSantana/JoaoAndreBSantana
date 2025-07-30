@@ -1,5 +1,5 @@
 <p align="center" style="color: #bbb; font-size: 16px; max-width: 600px; margin: auto;">
-  Residente em Sistemas Embarcados e estudante de Análise e Desenvolvimento de Sistemas no IFPI.
+  Estudante de Análise e Desenvolvimento de Sistemas no IFPI
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
